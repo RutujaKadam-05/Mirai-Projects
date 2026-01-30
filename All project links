@@ -1,3 +1,17 @@
-https://rutuja-kadam.app.n8n.cloud/webhook/20a750c9-e0bc-48f8-885d-d8ecf0ae7919/chat
-https://message-spotlight.lovable.app
-https://cityweather.lovable.app/
+1) AI Chat Webhook using n8n
+Link https://rutuja-kadam.app.n8n.cloud/webhook/20a750c9-e0bc-48f8-885d-d8ecf0ae7919/chat
+-This project is an AI-powered chat system implemented using n8n workflows. The webhook acts as an entry point for user messages, processes the input through automated logic and AI integrations, and returns intelligent responses in real time.
+-The workflow demonstrates how n8n can be used to build conversational systems by connecting webhooks, AI models, conditional logic, and response handling without heavy backend coding. It showcases the ability to design scalable automation pipelines where user input is analyzed, processed, and responded to dynamically.
+-This project is particularly useful for understanding chatbot backends, AI agent orchestration, and event-driven automation. It can be extended further to support use cases such as customer support bots, AI assistants, form-based interactions, or workflow-triggered conversations.
+
+2) Message Spotlight
+Link: https://message-spotlight.lovable.app
+-Message Spotlight is a simple yet effective web application designed to display and highlight user messages in a visually clear and engaging way. The project focuses on presenting user-generated content with emphasis, making it suitable for demonstrations, announcements, message previews, or lightweight interaction-based applications.
+-The interface is clean, minimal, and responsive, ensuring clarity and ease of use. The application demonstrates frontend development principles such as layout design, content emphasis, and smooth user interaction. It is built to be easily extendable and can be integrated with backend systems or automation tools like n8n to dynamically display messages from APIs, forms, or workflows.
+-This project reflects an understanding of UI simplicity, usability, and the importance of clear communication through well-designed interfaces.
+
+3) City Weather App
+Link: https://cityweather.lovable.app/
+-The City Weather App is a responsive web application that provides users with real-time weather information for any city worldwide. The application allows users to search for a city by name and instantly view key weather details such as temperature, weather conditions, humidity, and wind information in a clean and user-friendly interface.
+-The project focuses on delivering a smooth user experience with a minimal and modern design. It demonstrates effective integration of external weather APIs, dynamic data rendering, and error handling for invalid or unavailable city searches. The application is optimized for different screen sizes, making it accessible on mobile, tablet, and desktop devices.
+-This project highlights skills in frontend UI development, API consumption, and building practical applications that solve real-world problems using modern web tools.
